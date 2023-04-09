@@ -1,2 +1,3 @@
 # goose_game
-A nice goose game written in python with pygame
+It is a nice goose game written in python with pygame
+Have a nice time :)

@@ -1,3 +1,4 @@
+#goose_game
 import pygame as pg
 from pygame.constants import *
 from random import randint
