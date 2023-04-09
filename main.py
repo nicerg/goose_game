@@ -41,7 +41,7 @@ font = pg.font.SysFont(START_FONT, font_size, 1, 1)
 heart_icon = pg.transform.scale(pg.image.load('life_bonus.png').convert_alpha(), (font_size, font_size))
 speed_icon = pg.transform.scale(pg.image.load('speed_bonus.png').convert_alpha(), (font_size, font_size))
 
-bg_ifdefeat = pg.transform.scale(pg.image.load('background_ifdefeat.png').convert(), screen)
+bg_ifdefeat = pg.transform.scale(pg.image.load('background_is_defeat.png').convert(), screen)
 bg = pg.transform.scale(pg.image.load('background.png').convert(), screen)
 bgX1 = 0
 bgX2 = bg.get_width()
