@@ -1,0 +1,5 @@
+# ignores files
+score.txt
+
+#ignores folders
+player_img/
